@@ -1,3 +1,9 @@
+body {
+  background-image: url('/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
 .counter {
   font-size: 16px;
   padding: 5px 10px;

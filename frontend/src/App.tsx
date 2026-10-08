@@ -3,7 +3,11 @@ import './App.css'
 function App() {
   return (
     <main>
-      <h1>CViek</h1>
+      <h1>Christian V</h1>
+
+      <p>
+      Senior Computer Science major with minors in Cybersecurity and AI and Machine Learning.
+      </p>
 
       <h2>Senior Capstone Production Platform</h2>
 
