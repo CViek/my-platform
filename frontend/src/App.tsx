@@ -2,21 +2,20 @@ import './App.css'
 
 function App() {
   return (
-    <main>
+    <main className="intro">
+      <div className="avatar" aria-hidden="true">CV</div>
+
       <h1>Christian V</h1>
 
-      <p>
-      Senior Computer Science major with minors in Cybersecurity and AI and Machine Learning.
+      <p className="subtitle">
+        Senior Computer Science major · Minors in Cybersecurity and AI and Machine Learning
       </p>
 
-      <h2>Senior Capstone Production Platform</h2>
-
       <p>
-        This site will present my software projects, engineering decisions,
-        and production systems.
+        I enjoy building secure, reliable software and turning ideas into
+        production systems. This site will showcase my projects and
+        engineering decisions.
       </p>
-
-      <p>Initial frontend setup in progress.</p>
     </main>
   )
 }
